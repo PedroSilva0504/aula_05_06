@@ -1,0 +1,51 @@
+html {
+  font-size: 20px;
+}
+
+.primeiraSessao_em {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(99, 99, 230);
+  font-size: 10px;
+}
+
+.primeiraSessao_em div {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(243, 178, 178);
+  font-size: 2em;
+}
+
+.segundaSessao_rem {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(73, 170, 73);
+}
+.segundaSessao_rem div {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(139, 197, 255);
+  font-size: 1rem;
+}
+
+.terceiraSessao_porcentagem {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(128, 226, 221);
+}
+
+.terceiraSessao_porcentagem div {
+  width: 100%;
+  height: 50%;
+  background-color: rgb(226, 218, 102);
+}
+
+.quartaSessao_vw_vh{
+  width: 400px
+  height: 400px;
+  bac
+}
+
+.quartaSessao_vw_vh{
+  w
+}
